@@ -1,6 +1,6 @@
 # Auto-Claim-Kado-IDV
 
-Macro untuk auto claim kado di game Identity V (IDV).
+Macro untuk auto claim kado di game Indo Voice (IDV).
 
 ## Fitur
 - **Hold E** setiap 3 detik secara otomatis
